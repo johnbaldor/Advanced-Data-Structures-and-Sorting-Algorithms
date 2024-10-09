@@ -1,0 +1,94 @@
+
+Welcome to CS 2223 - Sort Compare!
+	TODAY: Fri Sep 13 01:43:56 EDT 2024 (1726206236941)
+	Running sorting algorithms on 1000 random Doubles (100 trials)
+
+------------------------------------
+Bubble sort took an average of: 0.00347 seconds to sort.
+Selection sort took an average of: 0.00187 seconds to sort.
+Insertion sort took an average of: 0.00252 seconds to sort.
+Topdown mergesort took an average of: 0.00101 seconds to sort.
+Bottom up mergesort took an average of: 0.00122 seconds to sort.
+Quicksort took an average of: 0.00044 seconds to sort.
+Quicksort (Bentley-Mcllroy) took an average of: 0.00056 seconds to sort.
+------------------------------------
+
+
+
+Welcome to CS 2223 - Sort Compare!
+	TODAY: Fri Sep 13 01:45:03 EDT 2024 (1726206303375)
+	Running sorting algorithms on 2000 random Doubles (100 trials)
+
+------------------------------------
+Bubble sort took an average of: 0.00732 seconds to sort.
+Selection sort took an average of: 0.00446 seconds to sort.
+Insertion sort took an average of: 0.00636 seconds to sort.
+Topdown mergesort took an average of: 0.00065 seconds to sort.
+Bottom up mergesort took an average of: 0.00057 seconds to sort.
+Quicksort took an average of: 0.00054 seconds to sort.
+Quicksort (Bentley-Mcllroy) took an average of: 0.00033 seconds to sort.
+------------------------------------
+
+
+
+Welcome to CS 2223 - Sort Compare!
+	TODAY: Fri Sep 13 01:45:44 EDT 2024 (1726206344201)
+	Running sorting algorithms on 4000 random Doubles (100 trials)
+
+------------------------------------
+Bubble sort took an average of: 0.03837 seconds to sort.
+Selection sort took an average of: 0.01776 seconds to sort.
+Insertion sort took an average of: 0.01879 seconds to sort.
+Topdown mergesort took an average of: 0.00138 seconds to sort.
+Bottom up mergesort took an average of: 0.00123 seconds to sort.
+Quicksort took an average of: 0.00078 seconds to sort.
+Quicksort (Bentley-Mcllroy) took an average of: 0.00064 seconds to sort.
+------------------------------------
+
+
+
+Welcome to CS 2223 - Sort Compare!
+	TODAY: Fri Sep 13 01:46:22 EDT 2024 (1726206382616)
+	Running sorting algorithms on 8000 random Doubles (100 trials)
+
+------------------------------------
+Bubble sort took an average of: 0.11859 seconds to sort.
+Selection sort took an average of: 0.06944 seconds to sort.
+Insertion sort took an average of: 0.07484 seconds to sort.
+Topdown mergesort took an average of: 0.00219 seconds to sort.
+Bottom up mergesort took an average of: 0.00234 seconds to sort.
+Quicksort took an average of: 0.00154 seconds to sort.
+Quicksort (Bentley-Mcllroy) took an average of: 0.00154 seconds to sort.
+------------------------------------
+
+
+
+Welcome to CS 2223 - Sort Compare!
+	TODAY: Fri Sep 13 01:47:25 EDT 2024 (1726206445148)
+	Running sorting algorithms on 16000 random Doubles (100 trials)
+
+------------------------------------
+Bubble sort took an average of: 0.63687 seconds to sort.
+Selection sort took an average of: 0.24701 seconds to sort.
+Insertion sort took an average of: 0.29171 seconds to sort.
+Topdown mergesort took an average of: 0.00383 seconds to sort.
+Bottom up mergesort took an average of: 0.00466 seconds to sort.
+Quicksort took an average of: 0.00296 seconds to sort.
+Quicksort (Bentley-Mcllroy) took an average of: 0.00276 seconds to sort.
+------------------------------------
+
+
+
+Welcome to CS 2223 - Sort Compare!
+	TODAY: Fri Sep 13 01:49:56 EDT 2024 (1726206596032)
+	Running sorting algorithms on 32000 random Doubles (100 trials)
+
+------------------------------------
+Bubble sort took an average of: 3.75858 seconds to sort.
+Selection sort took an average of: 1.14837 seconds to sort.
+Insertion sort took an average of: 1.20831 seconds to sort.
+Topdown mergesort took an average of: 0.00904 seconds to sort.
+Bottom up mergesort took an average of: 0.00919 seconds to sort.
+Quicksort took an average of: 0.00799 seconds to sort.
+Quicksort (Bentley-Mcllroy) took an average of: 0.00664 seconds to sort.
+------------------------------------
